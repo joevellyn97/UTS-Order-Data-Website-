@@ -3,7 +3,7 @@ Situs web ini dibuat untuk memenuhi persyaratan tugas akhir mata kuliah basis da
 
 ## Fitur Pelanggan
 - Pilih tanggal dengan batas otomatis minimal H+2.
-- Pilih varian, kemasan 6 dan 10, dan jumlah box, dengan total harga langsung tampil.
+- Pilih varian, kemasan isi 6 dan 10, dan jumlah box, dengan total harga langsung tampil.
 - Pilih ambil di outlet atau delivery.
 - Pilih pembayaran cash atau QRIS, dibayar saat barang diterima.
 - Setelah memesan, pelanggan dapat kode pesanan dan tombol konfirmasi lewat WhatsApp.
